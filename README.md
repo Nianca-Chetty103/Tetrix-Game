@@ -1,6 +1,6 @@
 # Tetrix-Game 🎮
 
-<img src="https://github.com/Nianca-Chetty103/Tetrix-Game/blob/main/Screenshot%202025-11-25%20120655.png" width="300"> <img src="https://github.com/Nianca-Chetty103/Tetrix-Game/blob/main/Screenshot%202025-11-26%20201245.png" width="300"> <img src="https://github.com/Nianca-Chetty103/Tetrix-Game/blob/main/Screenshot%202025-11-26%20201417.png" width="300">
+<img src="https://github.com/Nianca-Chetty103/Tetrix-Game/blob/main/Screenshot%202025-11-25%20120655.png" width="200"> <img src="https://github.com/Nianca-Chetty103/Tetrix-Game/blob/main/Screenshot%202025-11-26%20201245.png" width="200"> <img src="https://github.com/Nianca-Chetty103/Tetrix-Game/blob/main/Screenshot%202025-11-26%20201417.png" width="200">
 
 ## Features 
 - able to start and pause the game when playing.
