@@ -9,6 +9,8 @@
 
  ## How to play⭐
  use the following keys to play:
+ - click on the link under the descriptions.
+ - click start and go for it.
  - Arrow up = move up
  - Arrow down = move down
  - Arrow left = move left
@@ -20,5 +22,9 @@ Try to get as many points as possible by clearing the rows.
 - Javascript
 - HTML and CSS
   
-## Why I built this 🌻
-will be the first application i build using javascript, HTML and CSS together.
+## What I learnt 
+- its my first proper application using Javascript, HTML and CSS all together without tutorials.
+- learnt how to link the various applications so that they work together.
+- how the animations work in css.
+- how to structure the grid and shapes in the game.
+
